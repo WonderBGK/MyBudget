@@ -8,7 +8,7 @@
     Title="MyBudget">
 
     <ShellContent
-        Title="Home"
+        Title="MyBudget"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
